@@ -1,0 +1,3 @@
+buildjob:
+  stage: build
+  script: ls
